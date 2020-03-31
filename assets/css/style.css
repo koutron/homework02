@@ -1,0 +1,30 @@
+body {
+    background-color: lightgrey;
+}
+
+.main-content {
+    background-color: white;
+    margin: 20px;
+    padding: 50px;
+}
+
+#profile-pic {
+    height: 200px;
+    width: 200px;
+}
+
+.car {
+    height: 200px;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+form {
+    width: 100%;
+}
+
+p {
+    display: inline-block;
+}
+
