@@ -8,16 +8,27 @@ body {
     padding: 50px;
 }
 
+.inner-content {
+    padding: 0px;
+}
+
 #profile-pic {
+    display: block;
     height: 200px;
     width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
 }
 
 .car {
+    display: block;
     height: 200px;
     width: 250px;
     margin-top: 20px;
     margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 form {
