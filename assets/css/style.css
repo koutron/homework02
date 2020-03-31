@@ -35,10 +35,6 @@ form {
     width: 100%;
 }
 
-p {
-    display: inline-block;
-}
-
 footer {
     position: fixed;
     bottom: 0;
